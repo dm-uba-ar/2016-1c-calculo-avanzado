@@ -1,10 +1,5 @@
 # Cálculo Avanzado — Primer cuatrimestre de 2016
 
-## Equipo docente
-
-- **Clases teóricas:** Daniel Perrucci
-- **Clases prácticas:** Ximena Fernández, Juan Manuel Menconi, Fernando Martin
-
 ## Prácticas
 
 - [Ejercicio](entregar.pdf)
